@@ -1,0 +1,138 @@
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\appsettings.Development.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\appsettings.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.exe
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.deps.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.runtimeconfig.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.pdb
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Gremlin.Net.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Polly.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Text.Json.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.csproj.AssemblyReference.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.GeneratedMSBuildEditorConfig.editorconfig
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.AssemblyInfoInputs.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.AssemblyInfo.cs
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.csproj.CoreCompileInputs.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.MvcApplicationPartsAssemblyInfo.cs
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.MvcApplicationPartsAssemblyInfo.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\staticwebassets.build.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\staticwebassets.development.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\scopedcss\bundle\SummertimeSunshine API.styles.css
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.csproj.CopyComplete
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\refint\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.pdb
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.genruntimeconfig.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\obj\Debug\net6.0\ref\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshine API\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\appsettings.Development.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\appsettings.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.exe
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.deps.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.runtimeconfig.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\SummertimeSunshine API.pdb
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Gremlin.Net.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Polly.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Text.Json.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.csproj.AssemblyReference.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.GeneratedMSBuildEditorConfig.editorconfig
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.AssemblyInfoInputs.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.AssemblyInfo.cs
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.csproj.CoreCompileInputs.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.MvcApplicationPartsAssemblyInfo.cs
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.MvcApplicationPartsAssemblyInfo.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\staticwebassets.build.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\staticwebassets.development.json
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\scopedcss\bundle\SummertimeSunshine API.styles.css
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.csproj.CopyComplete
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\refint\SummertimeSunshine API.dll
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.pdb
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\SummertimeSunshine API.genruntimeconfig.cache
+D:\10022023\Summertime Sunshine Kpop API\SummertimeSunshineAPI_CRUD\SummertimeSunshine API\obj\Debug\net6.0\ref\SummertimeSunshine API.dll
